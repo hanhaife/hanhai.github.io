@@ -12,3 +12,5 @@
 | 2020-8-27 | 《瀚海云自定义列的实现》 | 王珂妍、石增振	|
 | 2020-9-3 | 《tiga启动器》 | 李淳	|
 | 2020-9-10 |	《mock socket》 |	李全涛	|
+
+为了更好地分享知识，建议参考[前端分享指南](https://github.com/hanhaife/hanhai.github.io/blob/master/articles/presentation-spec.md)
